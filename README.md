@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/e2a3215d-c5b7-48bb-a383-7e9b158cacd6)
+
+
 # Алгоритмы и Структуры Данных на Go
 
 ## 1. Arrays & Hashing (Массивы и хеширование)
